@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"If you're a car enthusiast or someone who regularly works on their own vehicle, you know the importance of having accurate and reliable torque measurements. ","photo":"https://iili.io/Hvuvjse.png"},
+  {"title":"how to use this app 2","desc":"Torque is a crucial factor when it comes to tightening bolts and nuts on your car's engine, wheels, suspension, and other critical components. Over-tightening or under-tightening can lead to serious problems and potentially dangerous situations.","photo":"https://iili.io/HvuvhX9.jpg"},
+  {"title":"advance pack 3","desc":"When tightening bolts and nuts on your car's engine, wheels, suspension, and other essential parts, torque is a significant consideration. Serious issues and potentially deadly situations might result from over- or under-tightening.","photo":"https://iili.io/HvuvNqu.png"},
+  {"title":"tips mod 4","desc":"Fortunately, there are now mobile apps available that can help you accurately measure torque on your car. One such app is Torque Car Helper.","photo":"https://iili.io/Hvuvvdx.png"},
+  {"title":"advice pack 5","desc":"Torque Car Helper is a handy mobile app that provides accurate and reliable torque measurements for your car's bolts and nuts.","photo":"https://iili.io/HvuvO0b.jpg"},
+  {"title":"helper mod 6","desc":The app works by using your smartphone's built-in accelerometer and gyroscope to measure the rotational force applied to the bolt or nut. It then calculates the torque value based on the measurements and provides you with a reading in Nm or lb-ft.","photo":"https://iili.io/Hvuvegj.webp"},
+  {"title":"tips pack 7","desc":"The software measures the rotational force imparted to the bolt or nut using the accelerometer and gyroscope built into your smartphone. It then uses the readings to determine the torque value and gives you a reading in Nm or lb-ft.","photo":"https://iili.io/Hvuv85Q.jpg"},
+  {"title":"advance mod 8","desc":"The app is easy to use and intuitive. All you need to do is open the app, select the bolt or nut you want to measure, place your phone on top of it, and then tighten or loosen it with a torque wrench until you reach the desired torque value. ","photo":"https://iili.io/HvuvSeV.png"}
 
    ]
  
